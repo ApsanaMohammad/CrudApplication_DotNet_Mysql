@@ -34,8 +34,8 @@ CrudApplication_DotNet_Mysql/ ├── Controllers/ │ └── CrudApplicati
 1. Install **MySQL** on your system if not already installed.
 2. Create a new database named `CrudDB`:
    ```sql
-   CREATE DATABASE CrudDB;
-   USE CrudDB;
+   CREATE DATABASE -----;
+   USE -----;
 
    CREATE TABLE UserInformation (
     Id INT AUTO_INCREMENT PRIMARY KEY,
