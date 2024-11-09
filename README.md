@@ -26,4 +26,24 @@ The project follows a **3-layer architecture**:
 2. **Service Layer:** Contains business logic and interacts with the repository layer.
 3. **Repository Layer:** Manages database operations using ADO.NET.
 
-### Folder Structure
+## 🗂️ Project Structure
+CrudApplication_DotNet_Mysql/ ├── Controllers/ │ └── CrudApplicationController.cs ├── ServiceLayer/ │ ├── ICrudApplicationSL.cs │ └── CrudApplicationSL.cs ├── RepositoryLayer/ │ ├── ICrudApplicationRL.cs │ └── CrudApplicationRL.cs ├── CommonLayer/ │ └── Model/ │ ├── AddInformationRequest.cs │ ├── AddInformationResponse.cs │ ├── UpdateInformationRequest.cs │ ├── UpdateInformationResponse.cs │ ├── DeleteInformationResponse.cs │ └── GetInformationResponse.cs ├── appsettings.json ├── Program.cs └── Startup.cs
+
+## 💾 Database Setup
+
+1. Install **MySQL** on your system if not already installed.
+2. Create a new database named `CrudDB`:
+   ```sql
+   CREATE DATABASE CrudDB;
+   USE CrudDB;
+
+   CREATE TABLE UserInformation (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    UserName VARCHAR(100) NOT NULL,
+    EmailID VARCHAR(100) NOT NULL,
+    MobileNumber VARCHAR(15) NOT NULL,
+    Salary INT NOT NULL,
+    Gender VARCHAR(10) NOT NULL
+);
+
+
