@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "CrudApplicationWithMySql3.Controllers.CrudApplicationController",
+    "Method": "AddInformation",
+    "RelativePath": "api/CrudApplication/AddInformation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CrudApplicationWithMySql3.CommonLayer.Model.AddInformationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudApplicationWithMySql3.Controllers.CrudApplicationController",
+    "Method": "DeleteInformation",
+    "RelativePath": "api/CrudApplication/DeleteInformation/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudApplicationWithMySql3.Controllers.CrudApplicationController",
+    "Method": "GetAllInformation",
+    "RelativePath": "api/CrudApplication/GetAllInformation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudApplicationWithMySql3.Controllers.CrudApplicationController",
+    "Method": "GetInformationById",
+    "RelativePath": "api/CrudApplication/GetInformationById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudApplicationWithMySql3.Controllers.CrudApplicationController",
+    "Method": "UpdateInformation",
+    "RelativePath": "api/CrudApplication/UpdateInformation",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CrudApplicationWithMySql3.CommonLayer.Model.UpdateInformationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|c:\\users\\lenovo\\source\\repos\\crudapplicationwithmysql3\\crudapplicationwithmysql3\\controllers\\crudapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|solutionrelative:crudapplicationwithmysql3\\controllers\\crudapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|c:\\users\\lenovo\\source\\repos\\crudapplicationwithmysql3\\crudapplicationwithmysql3\\commonlayer\\model\\addinformationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|solutionrelative:crudapplicationwithmysql3\\commonlayer\\model\\addinformationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|c:\\users\\lenovo\\source\\repos\\crudapplicationwithmysql3\\crudapplicationwithmysql3\\repositorylayer\\icrudapplicationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|solutionrelative:crudapplicationwithmysql3\\repositorylayer\\icrudapplicationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|c:\\users\\lenovo\\source\\repos\\crudapplicationwithmysql3\\crudapplicationwithmysql3\\repositorylayer\\crudapplicationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|solutionrelative:crudapplicationwithmysql3\\repositorylayer\\crudapplicationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|c:\\users\\lenovo\\source\\repos\\crudapplicationwithmysql3\\crudapplicationwithmysql3\\servicelayer\\icrudapplicationsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|solutionrelative:crudapplicationwithmysql3\\servicelayer\\icrudapplicationsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|c:\\users\\lenovo\\source\\repos\\crudapplicationwithmysql3\\crudapplicationwithmysql3\\servicelayer\\crudapplicationsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|solutionrelative:crudapplicationwithmysql3\\servicelayer\\crudapplicationsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|c:\\users\\lenovo\\source\\repos\\crudapplicationwithmysql3\\crudapplicationwithmysql3\\commonlayer\\model\\updateinformationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|solutionrelative:crudapplicationwithmysql3\\commonlayer\\model\\updateinformationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|c:\\users\\lenovo\\source\\repos\\crudapplicationwithmysql3\\crudapplicationwithmysql3\\commonlayer\\model\\updateinformationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|solutionrelative:crudapplicationwithmysql3\\commonlayer\\model\\updateinformationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|c:\\users\\lenovo\\source\\repos\\crudapplicationwithmysql3\\crudapplicationwithmysql3\\commonlayer\\model\\getinformationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|solutionrelative:crudapplicationwithmysql3\\commonlayer\\model\\getinformationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|c:\\users\\lenovo\\source\\repos\\crudapplicationwithmysql3\\crudapplicationwithmysql3\\commonlayer\\model\\deleteinformationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|solutionrelative:crudapplicationwithmysql3\\commonlayer\\model\\deleteinformationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|c:\\users\\lenovo\\source\\repos\\crudapplicationwithmysql3\\crudapplicationwithmysql3\\commonlayer\\model\\addinformationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|solutionrelative:crudapplicationwithmysql3\\commonlayer\\model\\addinformationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|c:\\users\\lenovo\\source\\repos\\crudapplicationwithmysql3\\crudapplicationwithmysql3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|solutionrelative:crudapplicationwithmysql3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|c:\\users\\lenovo\\source\\repos\\crudapplicationwithmysql3\\crudapplicationwithmysql3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE91625B-1F91-4428-AAD6-119AAA172159}|CrudApplicationWithMySql3\\CrudApplicationWithMySql3.csproj|solutionrelative:crudapplicationwithmysql3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddInformationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\CommonLayer\\Model\\AddInformationResponse.cs",
+              "RelativeDocumentMoniker": "CrudApplicationWithMySql3\\CommonLayer\\Model\\AddInformationResponse.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\CommonLayer\\Model\\AddInformationResponse.cs",
+              "RelativeToolTip": "CrudApplicationWithMySql3\\CommonLayer\\Model\\AddInformationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:43:26.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CrudApplicationSL.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\ServiceLayer\\CrudApplicationSL.cs",
+              "RelativeDocumentMoniker": "CrudApplicationWithMySql3\\ServiceLayer\\CrudApplicationSL.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\ServiceLayer\\CrudApplicationSL.cs",
+              "RelativeToolTip": "CrudApplicationWithMySql3\\ServiceLayer\\CrudApplicationSL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T05:24:26.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrudApplicationRL.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\RepositoryLayer\\CrudApplicationRL.cs",
+              "RelativeDocumentMoniker": "CrudApplicationWithMySql3\\RepositoryLayer\\CrudApplicationRL.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\RepositoryLayer\\CrudApplicationRL.cs",
+              "RelativeToolTip": "CrudApplicationWithMySql3\\RepositoryLayer\\CrudApplicationRL.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAowGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T05:23:35.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICrudApplicationRL.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\RepositoryLayer\\ICrudApplicationRL.cs",
+              "RelativeDocumentMoniker": "CrudApplicationWithMySql3\\RepositoryLayer\\ICrudApplicationRL.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\RepositoryLayer\\ICrudApplicationRL.cs",
+              "RelativeToolTip": "CrudApplicationWithMySql3\\RepositoryLayer\\ICrudApplicationRL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T05:23:10.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrudApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\Controllers\\CrudApplicationController.cs",
+              "RelativeDocumentMoniker": "CrudApplicationWithMySql3\\Controllers\\CrudApplicationController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\Controllers\\CrudApplicationController.cs",
+              "RelativeToolTip": "CrudApplicationWithMySql3\\Controllers\\CrudApplicationController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAywB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T05:25:15.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICrudApplicationSL.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\ServiceLayer\\ICrudApplicationSL.cs",
+              "RelativeDocumentMoniker": "CrudApplicationWithMySql3\\ServiceLayer\\ICrudApplicationSL.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\ServiceLayer\\ICrudApplicationSL.cs",
+              "RelativeToolTip": "CrudApplicationWithMySql3\\ServiceLayer\\ICrudApplicationSL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T05:24:07.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateInformationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\CommonLayer\\Model\\UpdateInformationRequest.cs",
+              "RelativeDocumentMoniker": "CrudApplicationWithMySql3\\CommonLayer\\Model\\UpdateInformationRequest.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\CommonLayer\\Model\\UpdateInformationRequest.cs",
+              "RelativeToolTip": "CrudApplicationWithMySql3\\CommonLayer\\Model\\UpdateInformationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:58:13.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateInformationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\CommonLayer\\Model\\UpdateInformationResponse.cs",
+              "RelativeDocumentMoniker": "CrudApplicationWithMySql3\\CommonLayer\\Model\\UpdateInformationResponse.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\CommonLayer\\Model\\UpdateInformationResponse.cs",
+              "RelativeToolTip": "CrudApplicationWithMySql3\\CommonLayer\\Model\\UpdateInformationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:05:49.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetInformationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\CommonLayer\\Model\\GetInformationResponse.cs",
+              "RelativeDocumentMoniker": "CrudApplicationWithMySql3\\CommonLayer\\Model\\GetInformationResponse.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\CommonLayer\\Model\\GetInformationResponse.cs",
+              "RelativeToolTip": "CrudApplicationWithMySql3\\CommonLayer\\Model\\GetInformationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:59:17.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteInformationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\CommonLayer\\Model\\DeleteInformationResponse.cs",
+              "RelativeDocumentMoniker": "CrudApplicationWithMySql3\\CommonLayer\\Model\\DeleteInformationResponse.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\CommonLayer\\Model\\DeleteInformationResponse.cs",
+              "RelativeToolTip": "CrudApplicationWithMySql3\\CommonLayer\\Model\\DeleteInformationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:58:51.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudApplicationWithMySql3\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\appsettings.json",
+              "RelativeToolTip": "CrudApplicationWithMySql3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T06:24:45.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\Program.cs",
+              "RelativeDocumentMoniker": "CrudApplicationWithMySql3\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\Program.cs",
+              "RelativeToolTip": "CrudApplicationWithMySql3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:28:25.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddInformationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\CommonLayer\\Model\\AddInformationRequest.cs",
+              "RelativeDocumentMoniker": "CrudApplicationWithMySql3\\CommonLayer\\Model\\AddInformationRequest.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CrudApplicationWithMySql3\\CrudApplicationWithMySql3\\CommonLayer\\Model\\AddInformationRequest.cs",
+              "RelativeToolTip": "CrudApplicationWithMySql3\\CommonLayer\\Model\\AddInformationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T05:49:37.43Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
